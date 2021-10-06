@@ -1,3 +1,3 @@
 # Navis N4 automated testing
 
-UI Vision scripted testing for 6 basic gate transactions
+UI Vision scripted testing for 8 basic gate transactions
